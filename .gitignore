@@ -1,0 +1,15 @@
+target
+.classpath
+.project
+.settings
+.metadata
+.svn
+*.iml
+.idea
+bin
+classes
+mall-generator
+Servers
+tomcat
+RemoteSystemsTempFiles
+.DS_Store
